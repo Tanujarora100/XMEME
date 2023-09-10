@@ -1,13 +1,15 @@
 # XMEME
 # XMeme Backend
 
-![Java Version](https://img.shields.io/badge/Java-11-blue)
-![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-2.7.1-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.4-yellow)
-![Swagger](https://img.shields.io/badge/Swagger-UI-brightgreen)
-![JUnit](https://img.shields.io/badge/JUnit-5-red)
-![Mockito](https://img.shields.io/badge/Mockito-3.10-orange)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-11-blue" alt="Java Version" width="150" height="30">
+  <img src="https://img.shields.io/badge/Spring%20Boot-2.7.1-green" alt="Spring Boot Version" width="200" height="30">
+  <img src="https://img.shields.io/badge/MongoDB-4.4-yellow" alt="MongoDB" width="150" height="30">
+  <img src="https://img.shields.io/badge/Swagger-UI-brightgreen" alt="Swagger" width="120" height="30">
+  <img src="https://img.shields.io/badge/JUnit-5-red" alt="JUnit" width="100" height="30">
+  <img src="https://img.shields.io/badge/Mockito-3.10-orange" alt="Mockito" width="120" height="30">
+  <img src="https://img.shields.io/badge/Docker-Container-blue" alt="Docker" width="150" height="30">
+</p>
 Welcome to the XMeme Backend! This backend server is the heart of the XMeme meme-sharing platform, built using Spring Boot and MongoDB.
 
 ## Table of Contents
@@ -46,4 +48,4 @@ In addition to the robust backend architecture, I've taken a step further to enh
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/XMEME-backend.git
+   git clone https://github.com/your-username/XMEME.git
